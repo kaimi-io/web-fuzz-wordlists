@@ -4,3 +4,4 @@ tinyfilemanager-2.0.1/
 tinyfilemanager-2.0.2/
 tinyfilemanager-2.2.0/
 tinyfilemanager-2.3/
+tinyfilemanager-2.3.4/
