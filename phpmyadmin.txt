@@ -801,6 +801,12 @@ phpMyAdmin-4.8.4/
 phpMyAdmin-4.8.5-all-languages/
 phpMyAdmin-4.8.5-english/
 phpMyAdmin-4.8.5/
+phpMyAdmin-4.9.0-all-languages/
+phpMyAdmin-4.9.0-english/
+phpMyAdmin-4.9.0/
+phpMyAdmin-4.9.0.1-all-languages/
+phpMyAdmin-4.9.0.1-english/
+phpMyAdmin-4.9.0.1/
 phpMyAdmin-4/
 phpMyAdmin-5.0/
 phpMyAdmin.php
@@ -1235,4 +1241,6 @@ phpmyadmin-RELEASE_4_8_2/
 phpmyadmin-RELEASE_4_8_3/
 phpmyadmin-RELEASE_4_8_4/
 phpmyadmin-RELEASE_4_8_5/
+phpmyadmin-RELEASE_4_9_0/
+phpmyadmin-RELEASE_4_9_0_1/
 phpmyadmin_1.3.0/
