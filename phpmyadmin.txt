@@ -1243,4 +1243,6 @@ phpmyadmin-RELEASE_4_8_4/
 phpmyadmin-RELEASE_4_8_5/
 phpmyadmin-RELEASE_4_9_0/
 phpmyadmin-RELEASE_4_9_0_1/
+phpmyadmin-RELEASE_4_9_1/
+phpmyadmin-RELEASE_5_0_0ALPHA1/
 phpmyadmin_1.3.0/
