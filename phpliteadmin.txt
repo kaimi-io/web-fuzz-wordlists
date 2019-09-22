@@ -64,3 +64,4 @@ phpLiteAdmin_1-9-7-1/
 phpLiteAdmin_v1-9-7-1/
 phpLiteAdmin_1-9-8/
 phpLiteAdmin_v1-9-8-1/
+phpLiteAdmin_v1-9-8-2/
