@@ -11,5 +11,6 @@ Possible paths for the following products:
 * FileRun (http://www.filerun.com/)
 * Encode Explorer (https://sourceforge.net/projects/encode-explorer/)
 * phpLiteAdmin (https://www.phpliteadmin.org/)
+* FileGator (https://github.com/filegator/filegator)
 
 (for https://kaimi.io/en/2019/03/pentest-101-web-wordlists/ post)
