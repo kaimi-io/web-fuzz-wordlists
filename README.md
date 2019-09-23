@@ -12,5 +12,6 @@ Possible paths for the following products:
 * Encode Explorer (https://sourceforge.net/projects/encode-explorer/)
 * phpLiteAdmin (https://www.phpliteadmin.org/)
 * FileGator (https://github.com/filegator/filegator)
+* kloudspeaker (https://github.com/sjarvela/kloudspeaker)
 
 (for https://kaimi.io/en/2019/03/pentest-101-web-wordlists/ post)
