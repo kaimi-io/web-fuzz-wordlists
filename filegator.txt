@@ -1,0 +1,10 @@
+filegator.php
+filegator/
+filegator_v7.0.0-RC2/
+filegator_v7.0.0-RC3/
+filegator_v7.0.0/
+filegator_v7.0.1/
+filegator_v7.0.0/
+filegator_v7.1.0/
+filegator_v7.1.1/
+filegator_v7.1.2/
