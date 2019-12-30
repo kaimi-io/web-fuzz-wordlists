@@ -825,6 +825,9 @@ phpMyAdmin-latest-all-languages/
 phpMyAdmin-latest-english/
 phpMyAdmin.php
 phpMyAdmin/
+phpmyadmin/
+pma/
+PMA/
 phpMyAdmin_0.9.0/
 phpMyAdmin_1.1.0/
 phpMyAdmin_1.2.0/
