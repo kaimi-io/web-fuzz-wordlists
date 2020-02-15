@@ -1,17 +1,19 @@
 # web-fuzz-wordlists
 
 Possible paths for the following products:
-* phpMyAdmin (https://github.com/phpmyadmin)
 * Adminer (https://github.com/vrana/adminer)
-* PHP Mini SQL Admin (https://sourceforge.net/projects/phpminiadmin/)
-* Sypex Dumper (https://sypex.net)
-* phpFileManager (https://www.dulldusk.com/phpfm)
-* tinyfilemanager (https://github.com/prasathmani/tinyfilemanager)
-* extplorer (https://extplorer.net/)
-* FileRun (http://www.filerun.com/)
 * Encode Explorer (https://sourceforge.net/projects/encode-explorer/)
-* phpLiteAdmin (https://www.phpliteadmin.org/)
+* extplorer (https://extplorer.net/)
 * FileGator (https://github.com/filegator/filegator)
+* FileRun (http://www.filerun.com/)
 * kloudspeaker (https://github.com/sjarvela/kloudspeaker)
+* phpFileManager (https://www.dulldusk.com/phpfm)
+* phpLiteAdmin (https://www.phpliteadmin.org/)
+* PHP Mini SQL Admin (https://sourceforge.net/projects/phpminiadmin/)
+* phpMyAdmin (https://github.com/phpmyadmin)
+* phpPgAdmin (https://github.com/phppgadmin/phppgadmin)
+* phpSQLiteAdmin (https://sourceforge.net/projects/phpsqliteadmin/files/phpSQLiteAdmin/)
+* Sypex Dumper (https://sypex.net)
+* tinyfilemanager (https://github.com/prasathmani/tinyfilemanager)
 
 (for https://kaimi.io/en/2019/03/pentest-101-web-wordlists/ post)
