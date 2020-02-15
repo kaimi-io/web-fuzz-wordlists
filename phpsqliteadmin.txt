@@ -1,0 +1,6 @@
+phpsqliteadmin/
+phpSQLiteAdmin/
+phpSQLiteAdmin-0.1/
+phpSQLiteAdmin-0.2/
+phpsqliteadmin03a1/
+phpSQLiteAdmin-0.3-Alpha1/
