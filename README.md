@@ -1,4 +1,4 @@
-# web-fuzz-wordlists
+# Common Web Managers Fuzz Wordlists
 
 Possible paths for the following products:
 * Adminer (https://github.com/vrana/adminer)
