@@ -8,6 +8,7 @@ Possible paths for the following products:
 * FileRun (http://www.filerun.com/)
 * kloudspeaker (https://github.com/sjarvela/kloudspeaker)
 * phpFileManager (https://www.dulldusk.com/phpfm)
+* phpLDAPadmin (https://sourceforge.net/projects/phpldapadmin/)
 * phpLiteAdmin (https://www.phpliteadmin.org/)
 * PHP Mini SQL Admin (https://sourceforge.net/projects/phpminiadmin/)
 * phpMyAdmin (https://github.com/phpmyadmin)
