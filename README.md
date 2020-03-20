@@ -14,6 +14,7 @@ Possible paths for the following products:
 * phpMyAdmin (https://github.com/phpmyadmin)
 * phpPgAdmin (https://github.com/phppgadmin/phppgadmin)
 * phpSQLiteAdmin (https://sourceforge.net/projects/phpsqliteadmin/files/phpSQLiteAdmin/)
+* Responsive Filemanager (https://github.com/trippo/ResponsiveFilemanager)
 * Sypex Dumper (https://sypex.net)
 * tinyfilemanager (https://github.com/prasathmani/tinyfilemanager)
 
