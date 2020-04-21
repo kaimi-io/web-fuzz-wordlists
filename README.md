@@ -1,6 +1,6 @@
 # Common Web Managers Fuzz Wordlists
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://raw.githubusercontent.com/kaimi-io/web-fuzz-wordlists/master/LICENSE)
-
+## Description
 Possible paths for the following products:
 * Adminer (https://github.com/vrana/adminer)
 * Encode Explorer (https://sourceforge.net/projects/encode-explorer/)
@@ -19,4 +19,7 @@ Possible paths for the following products:
 * Sypex Dumper (https://sypex.net)
 * tinyfilemanager (https://github.com/prasathmani/tinyfilemanager)
 
-(for https://kaimi.io/en/2019/03/pentest-101-web-wordlists/ post)
+## License
+Common Web Managers Fuzz Wordlists © 2019-2020 by Kaimi (Sergey Belov) - https://kaimi.io
+
+You should have received a copy of the MIT License along with Common Web Managers Fuzz Wordlists. If not, see [MIT License](LICENSE)
