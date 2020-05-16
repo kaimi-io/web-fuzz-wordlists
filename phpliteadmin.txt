@@ -2,6 +2,8 @@ phpliteadmin.php
 phpliteadmin 2.php
 phpLiteAdmin/
 phpLiteAdmin_/
+phpliteadmin/
+phpliteadmin-dev/
 phpLiteAdmin_1-1/
 phpLiteAdmin_v1-1/
 phpLiteAdmin_1-2/
