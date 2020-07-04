@@ -1,5 +1,8 @@
 # Common Web Managers Fuzz Wordlists
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://raw.githubusercontent.com/kaimi-io/web-fuzz-wordlists/master/LICENSE)
+
+[![Telegram](https://img.shields.io/badge/Telegram--lightgrey?logo=telegram&style=social)](https://t.me/kaimi_io)
+[![Twitter](https://img.shields.io/twitter/follow/kaimi_io?style=social)](https://twitter.com/kaimi_io)
 ## Description
 Possible paths for the following products:
 * Adminer (https://github.com/vrana/adminer)
