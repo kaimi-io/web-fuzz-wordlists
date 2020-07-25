@@ -44,3 +44,7 @@ filegator_v7.4.0/
 filegator-7.4.0/
 filegator_v7.4.1/
 filegator-7.4.1/
+filegator_v7.4.2/
+filegator-7.4.2/
+filegator_v7.4.3/
+filegator-7.4.3/
