@@ -11,7 +11,7 @@ Possible paths for the following products:
 * FileGator (https://github.com/filegator/filegator)
 * FileRun (http://www.filerun.com/)
 * kloudspeaker (https://github.com/sjarvela/kloudspeaker)
-* phpFileManager (https://www.dulldusk.com/phpfm)
+* phpFileManager (https://github.com/dulldusk/phpfm, https://www.dulldusk.com/phpfm)
 * phpLDAPadmin (https://sourceforge.net/projects/phpldapadmin/)
 * phpLiteAdmin (https://www.phpliteadmin.org/)
 * PHP Mini SQL Admin (https://sourceforge.net/projects/phpminiadmin/)
