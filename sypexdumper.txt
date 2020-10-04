@@ -1,5 +1,7 @@
 sypex.php
 sypexdumper.php
+dumper.php
+dumper/
 sxd/
 sxdpro/
 SypexDumper_2011/
