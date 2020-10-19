@@ -856,6 +856,10 @@ phpMyAdmin-4.9.4-all-languages/
 phpMyAdmin-4.9.4-english/
 phpMyAdmin-4.9.5-all-languages/
 phpMyAdmin-4.9.5-english/
+phpMyAdmin-4.9.6-all-languages/
+phpMyAdmin-4.9.6-english/
+phpMyAdmin-4.9.7-all-languages/
+phpMyAdmin-4.9.7-english/
 phpMyAdmin-4/
 phpMyAdmin-5.0/
 phpMyAdmin-5.0+snapshot-all-languages/
@@ -867,6 +871,10 @@ phpMyAdmin-5.0.1-all-languages/
 phpMyAdmin-5.0.1-english/
 phpMyAdmin-5.0.2-all-languages/
 phpMyAdmin-5.0.2-english/
+phpMyAdmin-5.0.3-all-languages/
+phpMyAdmin-5.0.3-english/
+phpMyAdmin-5.0.4-all-languages/
+phpMyAdmin-5.0.4-english/
 phpMyAdmin-5.1+snapshot-all-languages/
 phpMyAdmin-5.1+snapshot-english/
 phpMyAdmin_0.9.0/
@@ -1311,8 +1319,12 @@ phpmyadmin-RELEASE_4_9_2/
 phpmyadmin-RELEASE_4_9_3/
 phpmyadmin-RELEASE_4_9_4/
 phpmyadmin-RELEASE_4_9_5/
+phpmyadmin-RELEASE_4_9_6/
+phpmyadmin-RELEASE_4_9_7/
 phpmyadmin-RELEASE_5_0_0ALPHA1/
 phpmyadmin-RELEASE_5_0_0RC1/
 phpmyadmin-RELEASE_5_0_0/
 phpmyadmin-RELEASE_5_0_1/
 phpmyadmin-RELEASE_5_0_2/
+phpmyadmin-RELEASE_5_0_3/
+phpmyadmin-RELEASE_5_0_4/
