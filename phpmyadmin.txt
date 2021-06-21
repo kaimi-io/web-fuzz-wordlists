@@ -879,6 +879,8 @@ phpMyAdmin-5.1+snapshot-all-languages/
 phpMyAdmin-5.1+snapshot-english/
 phpMyAdmin-5.1.0-all-languages/
 phpMyAdmin-5.1.0-english/
+phpMyAdmin-5.1.1-all-languages/
+phpMyAdmin-5.1.1-english/
 phpMyAdmin_0.9.0/
 phpmyadmin_0.9.0/
 phpMyAdmin_1.1.0/
@@ -1333,3 +1335,4 @@ phpmyadmin-RELEASE_5_0_4/
 phpmyadmin-RELEASE_5_1_0RC1/
 phpmyadmin-RELEASE_5_1_0RC2/
 phpmyadmin-RELEASE_5_1_0/
+phpmyadmin-RELEASE_5_1_1/
