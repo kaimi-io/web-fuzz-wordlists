@@ -58,3 +58,5 @@ filegator_v7.4.7/
 filegator-7.4.7/
 filegator_v7.5.0/
 filegator-7.5.0/
+filegator_v7.5.1/
+filegator-7.5.1/
