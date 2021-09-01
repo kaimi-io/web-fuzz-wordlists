@@ -30,4 +30,4 @@ Possible paths for the following products:
 ## License
 Common Web Managers Fuzz Wordlists © 2019-2021 by Kaimi (Sergey Belov) - https://kaimi.io
 
-You should have received a copy of the MIT License along with Common Web Managers Fuzz Wordlists. If not, see [MIT License](LICENSE)
+You should have received a copy of the MIT License along with Common Web Managers Fuzz Wordlists. If not, see [MIT License](LICENSE).
