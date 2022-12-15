@@ -77,4 +77,14 @@ filegator-7.8.0/
 filegator_v7.8.1/
 filegator-7.8.1/
 filegator_v7.8.2/
-filegator-7.8.12/
+filegator-7.8.2/
+filegator_v7.8.3/
+filegator-7.8.3/
+filegator_v7.8.4/
+filegator-7.8.4/
+filegator_v7.8.5/
+filegator-7.8.5/
+filegator_v7.8.6/
+filegator-7.8.6/
+filegator_v7.8.7/
+filegator-7.8.7/
