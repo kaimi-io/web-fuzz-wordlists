@@ -28,6 +28,6 @@ Possible paths for the following products:
 * tinyfilemanager (https://github.com/prasathmani/tinyfilemanager)
 
 ## License
-Common Web Managers Fuzz Wordlists © 2019-2021 by Kaimi (Sergey Belov) - https://kaimi.io
+Common Web Managers Fuzz Wordlists © 2019-2024 by Kaimi (Sergey Belov) - https://kaimi.io
 
 You should have received a copy of the MIT License along with Common Web Managers Fuzz Wordlists. If not, see [MIT License](LICENSE).
