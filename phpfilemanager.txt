@@ -28,6 +28,7 @@ phpFileManager-1.7.6/
 phpFileManager-1.7.7/
 phpFileManager-1.7.8/
 phpFileManager-1.7.9/
+phpFileManager-1.8.0/
 phpfm/
 phpfm-1.6.1/
 phpfm-1.7/
@@ -40,3 +41,4 @@ phpfm-1.7.6/
 phpfm-1.7.7/
 phpfm-1.7.8/
 phpfm-1.7.9/
+phpfm-1.8.0/
