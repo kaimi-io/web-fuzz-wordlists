@@ -901,6 +901,8 @@ phpMyAdmin-5.2.1-all-languages/
 phpMyAdmin-5.2.1-english/
 phpMyAdmin-5.2.2-all-languages/
 phpMyAdmin-5.2.2-english/
+phpMyAdmin-5.2.3-all-languages/
+phpMyAdmin-5.2.3-english/
 phpMyAdmin-5.2+snapshot-all-languages/
 phpMyAdmin-5.2+snapshot-english/
 phpMyAdmin-5.3+snapshot-all-languages/
@@ -1370,3 +1372,4 @@ phpmyadmin-RELEASE_5_2_0RC1/
 phpmyadmin-RELEASE_5_2_0/
 phpmyadmin-RELEASE_5_2_1/
 phpmyadmin-RELEASE_5_2_2/
+phpmyadmin-RELEASE_5_2_3/
