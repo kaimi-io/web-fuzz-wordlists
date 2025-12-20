@@ -26,6 +26,7 @@ Possible paths for the following products:
 * Responsive Filemanager (https://github.com/trippo/ResponsiveFilemanager)
 * Sypex Dumper (https://sypex.net)
 * tinyfilemanager (https://github.com/prasathmani/tinyfilemanager)
+* MyWebSQL (https://sourceforge.net/projects/mywebsql/)
 
 ## License
 Common Web Managers Fuzz Wordlists © 2019-2024 by Kaimi (Sergey Belov) - https://kaimi.io
