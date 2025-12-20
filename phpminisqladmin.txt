@@ -27,3 +27,4 @@ phpminiadmin-1.9.170312/
 phpminiadmin-1.9.170730/
 phpminiadmin-1.9.240727/
 phpminiadmin-1.9.240801/
+phpminiadmin-1.9.251125/
