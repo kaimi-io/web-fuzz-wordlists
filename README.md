@@ -13,7 +13,10 @@ Possible paths for the following products:
 * FileGator (https://github.com/filegator/filegator)
 * fileNice (https://www.htmlcenter.com/blog/filenice-a-php-based-file-browser/)
 * FileRun (http://www.filerun.com/)
+* KCFinder (https://sourceforge.net/projects/kcfinder/)
 * kloudspeaker (https://github.com/sjarvela/kloudspeaker)
+* Muon (https://github.com/infoein/muon)
+* MyWebSQL (https://sourceforge.net/projects/mywebsql/)
 * phpFileManager (https://github.com/dulldusk/phpfm, https://www.dulldusk.com/phpfm)
 * PHPfileNavigator (http://pfn.sourceforge.net/)
 * phpLDAPadmin (https://sourceforge.net/projects/phpldapadmin/)
@@ -26,7 +29,6 @@ Possible paths for the following products:
 * Responsive Filemanager (https://github.com/trippo/ResponsiveFilemanager)
 * Sypex Dumper (https://sypex.net)
 * tinyfilemanager (https://github.com/prasathmani/tinyfilemanager)
-* MyWebSQL (https://sourceforge.net/projects/mywebsql/)
 
 ## License
 Common Web Managers Fuzz Wordlists © 2019-2024 by Kaimi (Sergey Belov) - https://kaimi.io
