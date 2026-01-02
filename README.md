@@ -7,6 +7,7 @@
 Possible paths for the following products:
 * Adminer (https://github.com/vrana/adminer)
 * AjaXplorer (https://sourceforge.net/projects/ajaxplorer/files/ajaxplorer/)
+* b374k (https://github.com/b374k/b374k)
 * CKFinder (https://ckeditor.com/)
 * Encode Explorer (https://sourceforge.net/projects/encode-explorer/)
 * extplorer (https://extplorer.net/)
@@ -27,8 +28,11 @@ Possible paths for the following products:
 * phpPgAdmin (https://github.com/phppgadmin/phppgadmin)
 * phpSQLiteAdmin (https://sourceforge.net/projects/phpsqliteadmin/files/phpSQLiteAdmin/)
 * Responsive Filemanager (https://github.com/trippo/ResponsiveFilemanager)
+* P.A.S.
+* Rome WebShell (https://github.com/Caesarovich/rome-webshell)
 * Sypex Dumper (https://sypex.net)
 * tinyfilemanager (https://github.com/prasathmani/tinyfilemanager)
+* WSO
 
 ## License
 Common Web Managers Fuzz Wordlists © 2019-2024 by Kaimi (Sergey Belov) - https://kaimi.io
